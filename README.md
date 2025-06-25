@@ -83,8 +83,8 @@ You can modify which hypotheses or figures are executed by toggling the `if run_
 ### 3. Fragility Measures (H5–H7)
 - Compute inverse flow: time to collect 5 items per agent
 - Analyze mean and std. dev. by inventory distribution and condition
-- Compare symmetric vs asymmetric and transparent vs non-transparent setups
-- Identify criticality patterns using CV peaks and variance spikes
+- Compare symmetric vs asymmetric, transparent vs non-transparent and different total inventory setups
+
 
 ### 4. Learning (H8–H9)
 - Divide rounds into 3 one-minute intervals
